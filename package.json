@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "scripts": {
+    "start": "concurrently \"cd server && flask run\" \"cd client && ng serve\"",
+    "server-install": "cd server && pip install -r requirements.txt",
+    "seeds": "cd server && py seeds.py",
+    "server-env-install": "cd server && py -m venv venv",
+    "client-install": "cd client && npm install",
+    "install": "npm run client-install"
+  }
+}

@@ -1,0 +1,100 @@
+[
+    {
+        "first_name"  : "admin",
+        "last_name"  : "test",
+        "password"  : "root",
+        "email"     : "admin@root.com"
+    },
+
+    {
+        "first_name"  : "delete",
+        "last_name"  : "this",
+        "password"  : "delete123",
+        "email"     : "delete@me.test"
+    },
+
+    {
+        "first_name" : "test",
+        "last_name" : "one",
+        "password" : "test123",
+        "email" : "test1@test.com"
+    },
+
+    {
+        "first_name" : "test",
+        "last_name" : "two",
+        "password" : "test123",
+        "email" : "test2@test.com"
+    },
+
+    {
+        "first_name" : "test",
+        "last_name" : "three",
+        "password" : "test123",
+        "email" : "test3@test.com"
+    },
+
+    {
+        "first_name" : "test",
+        "last_name" : "four",
+        "password" : "test123",
+        "email" : "test4@test.com"
+    },
+
+    {
+        "first_name" : "test",
+        "last_name" : "five",
+        "password" : "test123",
+        "email" : "test5@test.com"
+    },
+
+    {
+        "first_name" : "test",
+        "last_name" : "six",
+        "password" : "test123",
+        "email" : "test6@test.com"
+    },
+
+    {
+        "first_name" : "test",
+        "last_name" : "seven",
+        "password" : "test123",
+        "email" : "test7@test.com"
+    },
+
+    {
+        "first_name" : "test",
+        "last_name" : "eight",
+        "password" : "test123",
+        "email" : "test8@test.com"
+    },
+
+    {
+        "first_name" : "test",
+        "last_name" : "nine",
+        "password" : "test123",
+        "email" : "test9@test.com"
+    },
+
+    {
+        "first_name" : "test",
+        "last_name" : "ten",
+        "password" : "test123",
+        "email" : "test10@test.com"
+    },
+
+    {
+        "first_name" : "test",
+        "last_name" : "eleven",
+        "password" : "test123",
+        "email" : "test11@test.com"
+    },
+
+    {
+        "first_name" : "test",
+        "last_name" : "twelve",
+        "password" : "test123",
+        "email" : "test12@test.com"
+    }
+
+]
